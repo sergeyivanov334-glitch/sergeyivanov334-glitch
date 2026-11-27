@@ -1,4 +1,4 @@
-# 👋 Привет! Меня зовут Сергей Иванов | Hi, I'm Sergey Ivanov
+# 👋 Привет! Меня зовут Сергей | Hi, I'm Sergey 
 
 **AI Engineer · Prompt Engineer · Business Automation Developer · RAG & AI Agents**
 
